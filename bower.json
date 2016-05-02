@@ -3,6 +3,8 @@
   "private": true,
   "dependencies": {
     "jquery": "~2.1.1",
-    "modernizr": "~2.8.1"
+    "modernizr": "~2.8.1",
+    "pagePiling.js": "pagepiling.js#^1.5.3",
+    "semantic": "^2.1.8"
   }
 }
